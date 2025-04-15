@@ -8,8 +8,19 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 1,
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "a1 trust diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "assessment 1"
+      }
+    ],
+    "diagramTop": 2,
     "reviewer": "",
     "threatTop": 0
   }
